@@ -1,15 +1,17 @@
-# Hi there, I'm Destian Noval (Voxl) 👋
+# Hi there, I'm **Destian Noval (Voxl)** 👋
 
 [![Website](https://img.shields.io/badge/Personal_Website-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://voxl.onl)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@VoxlMC)
 
-**Embedded Systems | Software Engineering | Silicon/Hardware Systems**
+🚀 **Embedded Systems | Software Engineering | Silicon/Hardware Systems**
 
-📍 Based in Indonesia
+📍 Based in **Indonesia**
+
+---
 
 ## 🛠️ Tech Stack
 
-### **Hardware & Embedded**
+### 🔩 **Hardware & Embedded**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/badge/FPGA-FFFFFF?style=for-the-badge&logo=xilinx&logoColor=black" alt="FPGA">
 </div>
 
-### **Daily Drivers**
+### 💻 **Daily Drivers**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -27,19 +29,23 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
 
-### **Occasional Tools**
+### ⚙️ **Occasional Tools**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
-<sub>_"No fluff - just tools I actually work with"_ 🛠️</sub>
+<sub>_"No fluff - just tools I actually work with."_ 🛠️</sub>
+
+---
 
 ## 🚀 Current Projects
 
-- **Anti Judi Online** - A solution to identify and flag YouTube videos promoting online gambling, making the platform safer for viewers
-- **Jawa Lang** - Where `sudo` becomes `ndoro` and every bug is solved with `jamu`
+- **🔎 Anti Judi Online** - Identifies and flags YouTube videos promoting online gambling, enhancing platform safety
+- **🌿 Jawa Lang** - Where `sudo` becomes `ndoro` and every bug is solved with `jamu`
+
+---
 
 ## 📊 GitHub Stats
 
@@ -48,8 +54,10 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoxlD&layout=compact&theme=nightowl&hide_border=true" alt="Top Langs" /> 
 </div>
 
+---
+
 ## 📫 How to reach me
 
-- Website: [voxl.onl](https://voxl.onl)
-- Email: contact@voxl.onl
-- YouTube: [@VoxlMC](https://youtube.com/@VoxlMC)
+📧 **Email:** [contact@voxl.onl](mailto:contact@voxl.onl)  
+🌐 **Website:** [voxl.onl](https://voxl.onl)  
+🎥 **YouTube:** [@VoxlMC](https://youtube.com/@VoxlMC)
