@@ -40,13 +40,6 @@
 
 ---
 
-## 🚀 Current Projects
-
-- **🔎 Anti Judi Online** - Identifies and flags YouTube videos promoting online gambling, enhancing platform safety
-- **🌿 Jawa Lang** - Where `sudo` becomes `ndoro` and every bug is solved with `jamu`
-
----
-
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;"> 
@@ -58,6 +51,6 @@
 
 ## 📫 How to reach me
 
-📧 **Email:** [contact@voxl.onl](mailto:contact@voxl.onl)  
+📧 **Discord:** [Invite](https://discord.gg/ffZHPHRBhY)  
 🌐 **Website:** [voxl.onl](https://voxl.onl)  
 🎥 **YouTube:** [@VoxlMC](https://youtube.com/@VoxlMC)
