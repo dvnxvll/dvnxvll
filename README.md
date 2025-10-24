@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;"> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VoxlD&show_icons=true&theme=nightowl&hide_border=true" alt="Stats" /> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoxlD&layout=compact&theme=nightowl&hide_border=true" alt="Top Langs" /> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dvnxvll&show_icons=true&theme=nightowl&hide_border=true" alt="Stats" /> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnxvll&layout=compact&theme=nightowl&hide_border=true" alt="Top Langs" /> 
 </div>
 
 ---
