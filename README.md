@@ -53,4 +53,4 @@
 
 📧 **Discord:** [Invite](https://discord.gg/ffZHPHRBhY)  
 🌐 **Website:** [voxl.onl](https://voxl.onl)  
-🎥 **YouTube:** [@VoxlMC](https://youtube.com/@VoxlMC)
+🎥 **YouTube:** [Voxl](https://youtube.com/@voxl_dev)
